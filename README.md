@@ -23,3 +23,13 @@ Examples:
 - `NAZ_Regular-Expressions.md` (week 1)
 - `LON_Packaging.md` (week 4)
 - `GAZ_Web-Storage.md` (week 7)
+
+As the header of the file please include the campus/cohort code, the topic, and the date.
+
+Examples:
+
+# FACN4 Regular Expressions [the date]
+
+# FAC14 Packaging [the date]
+
+# FACG5 Web Storage [the date]
