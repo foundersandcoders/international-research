@@ -14,9 +14,9 @@ At the end of the week the relevant folder should contain 12 files: 4 each for e
 
 The naming convention is as follows:
 
-[Campus Code]\_[Topic].md
+**[Campus Code]\_[Topic].md**
 
-Campus codes are: NAZ, GAZ, LON
+Campus codes are: **NAZ**, **GAZ**, **LON**
 
 Topics are as written in the repository with hyphens for spaces.
 
@@ -30,6 +30,6 @@ As the header of the file please include the campus/cohort code, the topic, and 
 
 Examples:
 
-FACN4 Regular Expressions [the date d-m-y]
-FAC14 Packaging [the date d-m-y]
-FACG5 Web Storage [the date d-m-y]
+- FACN4 Regular Expressions [the date d-m-y]
+- FAC14 Packaging [the date d-m-y]
+- FACG5 Web Storage [the date d-m-y]
