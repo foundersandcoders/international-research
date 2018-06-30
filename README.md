@@ -1,4 +1,4 @@
-# International_Research
+# International Research for FAC Campuses
 
 Repository for FAC campuses to share the results of their research topics.
 
