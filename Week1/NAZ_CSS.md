@@ -1,3 +1,5 @@
+# FACN4 CSS 02-07-2018
+
 ## Responsive vs mobile-first design
 
 Responsive web design is a web design method that enables web to fit the screens of different devices automatically, displaying the content in a way that people feel comfortable. This greatly reduces users’ operations like panning, zooming and scrolling when browsing the web.
