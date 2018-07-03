@@ -42,8 +42,8 @@ _________________________
 **search() method :**
 
 search method returns the first index that contain the string you are searching for :
-> var str = "Founders&Coders";
-> var n = str.search(/&C/i);
+> var str = "Founders&Coders";<br>
+> var n = str.search(/&C/i);<br>
 > 
  n will be 8
 ________
@@ -56,19 +56,19 @@ ________
 example1:
  cleaning a string 
 
-> function removeNoise(str){
+> function removeNoise(str){ <br>
 >   if (str.length==0) return ''; <br>
-> 	var s=str.replace(/[%$&/#·@|º\\ª]/g, '');
->   return s ;
+> 	var s=str.replace(/[%$&/#·@|º\\ª]/g, '');<br>
+>   return s ;<br>
 > }
 > 
 
 example2:
  mistakes corrections
-> function CorrectMe(str){
->   if (str.length==0) return '';
-> 	var s=str.replace(/[gogle]/g, 'google');
->   return s ;
+> function CorrectMe(str){<br>
+>   if (str.length==0) return '';<br>
+> 	var s=str.replace(/[gogle]/g, 'google');<br>
+>   return s ;<br>
 > }
 
 
@@ -79,7 +79,7 @@ example2:
 return true or false
 check if a string contains another string
 example
-> /Shawerma/.test("I Love Shawerma");
+> /Shawerma/.test("I Love Shawerma");<br>
 > 
 will return true 
 
