@@ -57,7 +57,7 @@ example1:
  cleaning a string 
 
 > function removeNoise(str){
->   if (str.length==0) return '';
+>   if (str.length==0) return ''; <br>
 > 	var s=str.replace(/[%$&/#·@|º\\ª]/g, '');
 >   return s ;
 > }
