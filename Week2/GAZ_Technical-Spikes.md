@@ -5,7 +5,7 @@ A spike is a product-testing method originating from Extreme Programming that us
 ### Technical and Functional Spikes
 
 Spikes primarily come in two forms: technical and functional.
- #### Functional spikes
+ #### Functional spikes 
 * They are used to analyze overall solution behavior and determine: How to break it down How to organize the work Where risk and complexity exist How to use insights to influence implementation decisions
 #### Technical spike
 * They are used to research various approaches in the solution domain. For example: Determine a build-versus-buy decision Evaluate the potential performance or load impact of a new user story Evaluate specific technical implementation approaches Develop confidence about the desired solution path
