@@ -99,5 +99,6 @@ Condition coverage can be satisfied by two tests:
 
 * a=true, b=false
 * a=false, b=true
+
 However, this set of tests does not satisfy branch coverage since neither case will meet the if condition.
 
