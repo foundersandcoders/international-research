@@ -64,9 +64,10 @@ npm run cover
 ### Coverage criteria
 
 To measure what percentage of code has been exercised by a test suite, one or more coverage criteria are used. Coverage criteria are usually defined as rules or requirements, which a test suite needs to satisfy.[4]
-Basic coverage criteria
 
-There are a number of coverage criteria, the main ones being:[5]
+**Basic coverage criteria**
+
+There are a number of coverage criteria, the main ones being:
 
 Function coverage – Has each function (or subroutine) in the program been called?
 Statement coverage – Has each statement in the program been executed?
@@ -96,7 +97,7 @@ if a and b then
 ~~~
 Condition coverage can be satisfied by two tests:
 
-a=true, b=false
-a=false, b=true
+* a=true, b=false
+* a=false, b=true
 However, this set of tests does not satisfy branch coverage since neither case will meet the if condition.
 
