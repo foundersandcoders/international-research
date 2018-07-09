@@ -5,6 +5,9 @@
 
  # Integration testing 
  is executed by testers and tests integration between software modules. It is a software testing technique where individual units of a program are combined and tested as a group. Test softwares are used to assist in Integration Testing. 
+ 
+ -------
+ ------
 
 
 
