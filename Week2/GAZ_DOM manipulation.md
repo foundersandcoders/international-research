@@ -84,7 +84,9 @@ newElement.appendChild(newElementContent);
     var node = document.createElement("li");
     var textnode = document.createTextNode("Ibrahem");
     node.appendChild(textnode);
-    document.getElementById("myList").appendChild(node);
+var list = document.getElementById("myList");   
+
+list.insertBefore(node, list.childNodes[0]); 
 </script>
  ```
 

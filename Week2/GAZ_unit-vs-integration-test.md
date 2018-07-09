@@ -1,8 +1,13 @@
+### FACG5 Unit vs Integration  [07-09-2018]
+
 # Unit Test 
- are conducted by developers and test the unit of code( aka module, component) he or she developed. It is a testing method by which individual units of source code are tested to determine if they are ready to use. It helps to reduce the cost of bug fixes since the bugs are identified during the early phases of development life cycle.
+ is conducted by developers and test the unit of code( aka module, component or function). It is a testing method by which individual units of source code are tested to determine if they are ready to use. It helps to reduce the cost of bug fixes since the bugs are identified during the early phases of development life cycle.
 
  # Integration testing 
  is executed by testers and tests integration between software modules. It is a software testing technique where individual units of a program are combined and tested as a group. Test softwares are used to assist in Integration Testing. 
+ 
+ -------
+ ------
 
 
 
