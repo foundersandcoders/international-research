@@ -1,5 +1,7 @@
 # FAC14 Unit vs. Integration Testing [10/07/2018]
 
+A README by @sblondon, @arrested-developer, @developess, and @sunuwars.
+
 ## An analogy :car:
 
 You wouldn't make a car without testing the individual bits before putting it together - otherwise you'd have no way to know if a single component was faulty; but you also wouldn't sell the car without testing how it works all together. 💥🚨🚑
