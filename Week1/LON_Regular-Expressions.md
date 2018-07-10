@@ -1,5 +1,5 @@
 # RegEx research notes
-Created by the wonderful Eve, Dom, Simon & Kate from FAC14
+Created by the wonderful Eve @sima-qian, Dom @VirtualDOMinic, Simon @dupreesi & Kate @sbinlondon from FAC14
 
 ## Topics to cover
 * Pattern creation and recognition
