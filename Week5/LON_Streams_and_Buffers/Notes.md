@@ -117,5 +117,22 @@ Writable streams emit the following events:
 
 
 ### Project
+Chunking Shakespeare
+```
+const fs = require("fs");
+if (process.argv.length === 4) {
+  var delay = process.argv[3].split("s")[0] * 1000;
+}
 
-Chunking Shakespeare.
+var readStream = fs.createReadStream(process.argv[2], "UTF8");
+
+readStream.on("data", function(chunk) {
+  console.log(chunk);
+  if (delay) {
+    readStream.pause();
+    setTimeout(() => {
+      readStream.resume();
+    }, delay);
+  }
+});
+```
